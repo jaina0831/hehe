@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/vegetale.css">
+    <title>Baymax</title>
+</head>
+<body>  
+<div class="bg">
+    <header>
+       <a ><img class="baymax2" src="/img/baymax2.jpg" ></a>
+            </div>
+        </header>
+    
+    <div class="header_icon">
+        <div class="i">
+            <img class="baymax3"  src="/img/baymax3.webp">
+        </div>
+        <div class="j">
+            <div class="content0">Baymax</div>
+            <div class="content3">療癒系機器人</div>
+       </div>   
+    </div>
+    <article class="content">
+            <div class="picture_content">
+               <div class="aside_left_title">功能</div>
+               <a href= "https://youtu.be/4KcpSbQdUSA"> <img class="Baymax_Disney"  src="./img/Baymax_Disney.webp"></a>
+            </div>
+            <div class="picture_content1">
+                <a href= "https://youtu.be/Jt6DVyMTGW0"><img class="bb" src="/img/bb.jpg"></a>
+            </div>
+    </article>
+        
+</div>
+</body>
+<footer>
+ 
+</footer>
+</html>
