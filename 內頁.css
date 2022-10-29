@@ -1,0 +1,110 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    margin:0 auto;
+    justify-content: space-between;
+}
+.bg{
+    width:1000px;
+    height: 400px;
+    background-color:  #f3f5d2;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.baymax2{
+    flex-wrap: nowrap;
+    width: 700px;
+    height: 350px;
+    margin: 25px 0 0 150px ;
+}
+.header_icon{
+    margin:0 0 0 0 ;
+    width: 1000px;
+    height:400px;
+    background-color:#e4f097;
+    background-position:center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.i{
+    align-items: flex-start;
+    margin-right: 52px;
+
+}
+.baymax3{
+    flex-wrap: nowrap;
+    margin:50px 0 0 50px;
+    width: 250px;
+    height: 300px;
+}
+.content0{
+    font-family: Arial;
+    width: 250px;
+    height:62px;
+    font-size: 44px;
+    font-weight: 900;
+    color: #50568a;
+    margin:60px 0 0 10px;
+  }
+.content3{
+    font-family: Arial;
+    width: 250px;
+    height:62px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #50568a;
+    margin:0px 0 0 10px;
+}
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 400px;
+}
+.picture_content{
+    width: 1000px;
+    height: 400px;
+    background-color:  #f3f5d2;
+}
+.aside_left_title {
+    width: 150px;
+    height:60px;
+    background-color: #f9e27d;
+    border-radius:   5px 5px  5px  5px;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 1000;
+    color:#6b4e4e ;
+    align-items: center;
+    padding-left: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Baymax_Disney{
+    flex-wrap: nowrap;
+    width: 400px;
+    height:200px;
+    padding:0px 0px 0px 550px;
+    margin-top: 55px;
+}
+.picture_content1{
+    width: 1000px;
+    height: 400px;
+    background-color:#e4f097;
+}
+.bb{
+    flex-wrap: nowrap;
+    width: 400px;
+    height:200px;
+    padding:100px 0px 0px 50px;
+}
